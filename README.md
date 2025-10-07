@@ -19,7 +19,7 @@ Built an end-to-end automated analytics pipeline:
 3. **Visualization**: Power BI dashboards provide actionable insights
 4. **Distribution**: SharePoint-hosted reports with automatic daily refresh
 
-## 📸 Screenshots
+## Screenshots
 
 ### Power BI Query Editor - Data Transformation
 ![Power BI Query Editor showing the applied transformation steps](image1.png)
@@ -134,7 +134,7 @@ This project was built for a specific client use case but demonstrates reusable 
 
 This project documentation is provided as-is for educational and reference purposes.
 
-## 👤 Author
+## Author
 
 **Justin Milner**
 - Project Manager & Developer
