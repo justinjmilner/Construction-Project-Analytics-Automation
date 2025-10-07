@@ -19,7 +19,19 @@ Built an end-to-end automated analytics pipeline:
 3. **Visualization**: Power BI dashboards provide actionable insights
 4. **Distribution**: SharePoint-hosted reports with automatic daily refresh
 
-## Data Structure
+## 📸 Screenshots
+
+### Power BI Query Editor - Data Transformation
+![Power BI Query Editor showing the applied transformation steps](image1.png)
+*Complex Power Query transformations converting raw Excel data into structured tables*
+
+### Source Excel Data Structure
+![Raw Excel data with construction project phases](image3.png)
+*Original unstructured Excel format with project timelines across multiple columns*
+
+### Final Report Output
+![Pre-construction status report showing task completion](image2.png)
+*Clean, organized output ready for stakeholder consumption*
 
 ### Source Data Characteristics
 - **Multiple project phases**: Pre-construction, Design, Estimating, Sales & Legal, Construction Admin
